@@ -1,0 +1,11 @@
+*.cov
+*.out
+*.test
+*.xml
+.coverage.out
+.tfcolony
+.tmp/
+/colonist/graph.png
+/colony
+/tvm
+/vendor
